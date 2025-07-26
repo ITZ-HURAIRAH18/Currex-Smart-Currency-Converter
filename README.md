@@ -2,7 +2,6 @@
 
 Currex is a modern, intuitive, and responsive currency converter web app. It allows users to convert currencies with real-time exchange rates. With a sleek interface featuring country flags and smooth interactions, Currex makes currency conversion simple and smart.
 
-![Currex Banner](https://flagsapi.com/US/flat/64.png) ![Currex Banner](https://flagsapi.com/PK/flat/64.png)
 
 ---
 
@@ -83,17 +82,4 @@ Currex/
 
 "Currex" comes from **Currency + Exchange**, designed to be smart, fast, and minimal for every global user.
 
----
-
-```
-
----
-
-### ✅ What’s next?
-
-Would you like:
-- A logo for Currex?
-- `favicon.ico` suggestions?
-- Hosting on GitHub Pages?
-- Dark mode toggle for your UI?
 
